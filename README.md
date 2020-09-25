@@ -21,7 +21,7 @@ For the culmination of Module 2, you just need to complete the final project!
 
 ### The Project
 
-For this project, you'll be working with the Northwind database--a free, open-source dataset created by Microsoft containing data from a fictional company. You probably remember the Northwind database from our section on Advanced SQL. Here's the schema for the Northwind database:
+For this project, you'll be working with the Northwind database--a free, open-source dataset created by Microsoft containing data from a fictional company. Here's the schema for the Northwind database:
 
 <img src='https://raw.githubusercontent.com/learn-co-curriculum/dsc-2-final-project/master/Northwind_ERD.png'>
 
@@ -41,7 +41,7 @@ To complete this project, you will need to turn in the following deliverables:
 
 1. A public GitHub repository.
 2. An `environment.yml` file that contains all the necessary packages needed to recreate your `hypo-env` conda environment.
-    - Unlike Phase 1, we haven't not given you an `environment.yml` file. Be sure to refer [to the documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) to learn how to create and export the `linreg-env` conda environment.
+    - Unlike Phase 1, we haven't not given you an `environment.yml` file. Be sure to refer [to the documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) to learn how to create and export the `hypo-env` conda environment.
 3. A standalone `src/` directory that stores all relevant source code.
     - All functions have docstrings that act as [professional-quality documentation](http://google.github.io/styleguide/pyguide.html#381-docstrings). 
     - If applicable, [well documented](https://www.sqlstyle.guide/) SQL queries with appropriate single-line or multiline comments.
